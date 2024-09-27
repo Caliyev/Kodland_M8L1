@@ -3,3 +3,5 @@
 ##Projemin Fikri
 
 İklim Değişikliği
+
+İklim Değişikliği = Discord botunu geliştirmek
